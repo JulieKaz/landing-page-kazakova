@@ -344,6 +344,7 @@ button.carousel-control__indicator {
     display: inline;
     cursor: pointer;
     position: relative;
+    -webkit-tap-highlight-color: transparent;
 }
 .ctrl__submit {
     padding: 20px 75px 16px 76px;
